@@ -1,5 +1,5 @@
 # 💫 About Me:
-Crafting robust .NET solutions by day, breaking (and fixing) systems by night. Passionate about secure code, red teaming, and turning vulnerabilities into fortresses. Let’s build and defend the future of software
+My work centers on crafting resilient .NET backend systems. Equally, I'm an offensive security practitioner, dedicated to uncovering vulnerabilities and strengthening defenses. I thrive on the challenges of red teaming and secure code principles. Fueled by constant curiosity and learning, I'm here to build better and protect smarter.
 
 
 ## 🌐 Socials:
