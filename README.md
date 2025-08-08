@@ -1,5 +1,5 @@
 # 💫 About Me:
-My work centers on crafting resilient .NET backend systems. Equally, I'm an offensive security practitioner, dedicated to uncovering vulnerabilities and strengthening defenses. I thrive on the challenges of red teaming and secure code principles. Fueled by constant curiosity and learning, I'm here to build better and protect smarter.
+I design and optimize resilient .NET backend services with a security-first approach. Passionate about clean code, and learning from every challenge. Currently growing my skills in API development and system resilience.
 
 
 ## 🌐 Socials:
