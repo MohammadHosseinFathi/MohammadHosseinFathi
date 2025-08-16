@@ -1,5 +1,5 @@
 # 💫 About Me:
-I design and optimize resilient .NET backend services with a security-first approach. Passionate about clean code, and learning from every challenge. Currently growing my skills in API development and system resilience.
+I code...
 
 
 ## 🌐 Socials:
